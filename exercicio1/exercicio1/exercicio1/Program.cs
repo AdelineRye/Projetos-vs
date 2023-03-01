@@ -10,6 +10,7 @@ class Exercicio1
         tamanho_do_quadrado = Convert.ToDouble(Console.ReadLine());
         area_do_quadrado = tamanho_do_quadrado * tamanho_do_quadrado;
         Console.WriteLine($"resultado: \n" + $"área do quadrado: {area_do_quadrado}");
+
         Console.ReadKey();
     }
 
