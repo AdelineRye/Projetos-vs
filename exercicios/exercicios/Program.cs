@@ -15,8 +15,8 @@ class Exercicios
         area_do_quadrado = tamanho_do_quadrado * tamanho_do_quadrado;
         //Saída
         Console.WriteLine($"resultado: \n" +
-            $" área do quadrado: {area_do_quadrado}");
-
+        $" área do quadrado: {area_do_quadrado}");
+        //fim
         Console.ReadKey();
     }
 }
